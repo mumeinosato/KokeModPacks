@@ -254,6 +254,186 @@
               }
             }
           ]
+        },
+        {
+          "id": "brandon.brandonscore:brandonscore:4.20.162@jar",
+          "name": "Brandons Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 827900,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/BrandonsCore-1.12.2-2.4.20.162-universal.jar",
+            "MD5": "4a67ccad9d684466010c02164d7ff13e"
+          }
+        },
+        {
+          "id": "codechickenlib.codechickenlib:codechickenlib:3.2.3.358@jar",
+          "name": "CodeChicken Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 704330,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+            "MD5": "3b5e44db5ac96fb23a439590b6731a31"
+          }
+        },
+        {
+          "id": "draconicevolution:draconicevolution:2.3.28.354@jar",
+          "name": "Draconic Evolution",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5708839,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+            "MD5": "e6c70ebe71c94d00b1056f6e4bef207f"
+          }
+        },
+        {
+          "id": "endercore:endercore:0.5.76@jar",
+          "name": "Ender Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 647959,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/EnderCore-1.12.2-0.5.76.jar",
+            "MD5": "6164be012de6ee761e37f54a74074125"
+          }
+        },
+        {
+          "id": "enderio:enderio:5.3.70@jar",
+          "name": "EnderIO",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8946575,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/EnderIO-1.12.2-5.3.70.jar",
+            "MD5": "c74737e1b943ca1b94265f0bc8f1c6cc"
+          }
+        },
+        {
+          "id": "immersiveengineering:immersiveengineering:0.12-98@jar",
+          "name": "ImmersiveEngineering",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6360959,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/ImmersiveEngineering-0.12-98.jar",
+            "MD5": "affce9a7f7cb9ab257135da89314e07e"
+          }
+        },
+        {
+          "id": "justenoughids:justenoughids:1.0.3-55@jar",
+          "name": "JustEnoughIDs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 982320,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/JustEnoughIDs-1.0.3-55.jar",
+            "MD5": "ac6f54cb5478dd3d0147aedbfe782d5d"
+          }
+        },
+        {
+          "id": "mantle:mantle:1.3.3.55@jar",
+          "name": "Mantle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 843486,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/Mantle-1.12-1.3.3.55.jar",
+            "MD5": "1026f5f8d3c4997831decd9023ca65a6"
+          }
+        },
+        {
+          "id": "Mekanism:Mekanism:9.8.3.390@jar",
+          "name": "Mekanism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7863657,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/Mekanism-1.12.2-9.8.3.390.jar",
+            "MD5": "e622b8365b9a1190b3b6cc042854e870"
+          }
+        },
+        {
+          "id": "MekanismGenerators:MekanismGenerators:9.8.3.390@jar",
+          "name": "MekanismGenerators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 336364,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar",
+            "MD5": "d75ddb11a6c1353b046c70d8904fe61e"
+          }
+        },
+        {
+          "id": "MekanismTools:MekanismTools:9.8.3.390@jar",
+          "name": "MekanismTools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 159785,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/MekanismTools-1.12.2-9.8.3.390.jar",
+            "MD5": "0095f13a729ce5873319e36e29a5b5e1"
+          }
+        },
+        {
+          "id": "OptiFine:OptiFine:-1.12.2-HD-U-G5@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
+        },
+        {
+          "id": "RedstoneFlux:RedstoneFlux:1.1.1@jar",
+          "name": "RedstoneFlux",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31802,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/RedstoneFlux-1.12-2.1.1.1-universal.jar",
+            "MD5": "93b1715f05be1878da93fca36dd37f2a"
+          }
+        },
+        {
+          "id": "TConstruct:TConstruct:13.0.183@jar",
+          "name": "TConstruct",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4023372,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/TConstruct-1.12.2-2.13.0.183.jar",
+            "MD5": "710d64342d41042b7d6ced891448e727"
+          }
+        },
+        {
+          "id": "appliedenergistics2:appliedenergistics2:rv6-stable-7@jar",
+          "name": "appliedenergistics2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4062630,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/appliedenergistics2-rv6-stable-7.jar",
+            "MD5": "b8667d60a761d5b5ae3c8a15192f9e28"
+          }
+        },
+        {
+          "id": "jei:jei:4.15.0.283@jar",
+          "name": "jei",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 650304,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/jei_1.12.2-4.15.0.283.jar",
+            "MD5": "fe1ae7e02a8e6e60c533d87e3a36419a"
+          }
+        },
+        {
+          "id": "mcjtylib:mcjtylib:3.5.4@jar",
+          "name": "mcjtylib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 544856,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/mcjtylib-1.12-3.5.4.jar",
+            "MD5": "45ac9983da9fd2bc7fe3446b9f4287c1"
+          }
+        },
+        {
+          "id": "rftools:rftools:7.73@jar",
+          "name": "rftools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2895803,
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/rftools-1.12-7.73.jar",
+            "MD5": "3af6f5864243b044a8dd6f2cb1a4b0cf"
+          }
         }
       ]
     },
