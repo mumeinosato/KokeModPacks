@@ -20,7 +20,7 @@
         "largeImageText": "Minecraft",
         "largeImageKey": "pack_numa"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -256,127 +256,13 @@
           ]
         },
         {
-          "id": "com.kotori316:fluidtank:12.5.3@jar",
-          "name": "FluidTank",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 368328,
-            "MD5": "e3f4630100c42ff0a3b68e4b363b57bd",
-            "url": "",
-            "manual": {
-              "url": "https://www.curseforge.com/minecraft/mc-mods/largefluidtank/download/3366145",
-              "name": "LargeFluidTank-12.5.3.jar",
-              "hints": [
-                {
-                  "css": ""
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "com.pam:harvestcraft:1.12.2zb@jar",
-          "name": "Pam's HarvestCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4912890,
-            "MD5": "e8e1ac67accdeea50116e1e92e592397",
-            "url": "",
-            "manual": {
-              "url": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/download/2904825",
-              "name": "Pam's+HarvestCraft+1.12.2zg.jar",
-              "hints": [
-                {
-                  "css": ""
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "com.rwtema:extrautils2:1.0@jar",
-          "name": "Extra Utilities 2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3226408,
-            "MD5": "1ea591619e6d5204bf077214868772ef",
-            "url": "",
-            "manual": {
-              "url": "https://www.curseforge.com/minecraft/mc-mods/extra-utilities/download/2678374",
-              "name": "extrautils2-1.12-1.9.9.jar",
-              "hints": [
-                {
-                  "css": ""
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "ic2.core:ic2:2.8.222-ex112@jar",
-          "name": "IndustrialCraft 2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8698102,
-            "MD5": "21cd00f737defbdac2321716d3418560",
-            "url": "",
-            "manual": {
-              "url": "https://www.curseforge.com/minecraft/mc-mods/industrial-craft/download/3838713",
-              "name": "industrialcraft-2-2.8.222-ex112.jar",
-              "hints": [
-                {
-                  "css": ""
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "com.bobmowzie:mowziesmobs:1.5.8@jar",
-          "name": "Mowzie's Mobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5185246,
-            "MD5": "de6541439f9a436963b020f20164cbfa",
-            "url": "",
-            "manual": {
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs/download/3048685",
-              "name": "mowziesmobs-1.5.8",
-              "hints": [
-                {
-                  "css": ""
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "techguns:techguns:1.12.2-2.0.2.0@jar",
-          "name": "Techguns",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28126750,
-            "MD5": "dbae09102aedeca925d4b3546685e5b5",
-            "url": "",
-            "manual": {
-              "url": "https://www.curseforge.com/minecraft/mc-mods/techguns/download",
-              "name": "techguns-1.12.2-2.0.2.0_pre3.2.jar",
-              "hints": [
-                {
-                  "css": ""
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "buildcraft.additionalpipes:additionalpipes:6.0.0.8@jar",
-          "name": "Additional Pipes",
+          "id": "brandon.brandonscore:brandonscore:4.20.162@jar",
+          "name": "Brandons Core",
           "type": "ForgeMod",
           "artifact": {
             "size": 227670,
-            "url": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/2.ModCraft2-Forge-1.12.2/forgemods/required/additionalpipes-6.0.0.8.jar",
-            "MD5": "4122cbeeae8738667008cb04828872c2"
+            "url": "https://github.com/mumeinosato/KokeModPacks/raw/master/servers/ModCraft-ei-1.12.2/forgemods/required/BrandonsCore-1.12.2-2.4.20.162-universal.jar",
+            "MD5": "4a67ccad9d684466010c02164d7ff13e"
           }
         },
         {
