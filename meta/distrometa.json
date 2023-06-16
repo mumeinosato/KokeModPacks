@@ -1,4 +1,5 @@
 {
+  "$schema": "file:///C:/Users/user/Desktop/KokeModPacks/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "https://raw.githubusercontent.com/TeamKun/NumaPacks/news/news.rss",
     "discord": {

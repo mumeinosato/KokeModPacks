@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/Users/user/Desktop/KokeModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "ModCraft1 (Minecraft 1.12.2)",
+    "description": "ModCraft1 Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+    "address": "",
+		"discord": {
+			"shortId": "Minecraft",
+			"largeImageText": "Minecraft",
+			"largeImageKey": "pack_numa"
+		},
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2860"
+  },
+  "untrackedFiles": []
+}
