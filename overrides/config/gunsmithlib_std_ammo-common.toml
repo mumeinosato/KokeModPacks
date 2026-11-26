@@ -1,0 +1,33 @@
+
+[bullet_merchant]
+	#Global price scale for the bullet merchant.
+	#This only affects the final cost, thus does not affect max trade count.
+	#
+	#Added in version 1.1.0
+	#Range: 0.0 ~ 2.147483647E9
+	bm_global_price_scale = 1.0
+	#Period of triage to spawn bullet merchant.
+	#Change to 0 to disable bullet merchant from spawning.
+	#
+	#Note: Tick period of bullet merchant spawner is hardcoded at 1200 (one minute).
+	#So value below 1200 (and > 0) will not take effect.
+	#
+	#Added in version 1.1.0
+	#Range: 0 ~ 9223372036854775807
+	bm_spawn_period = 24000
+	#Delay before bullet merchant start natural despawning.
+	#
+	#Added in version 1.1.2
+	#Range: 0 ~ 9223372036854775807
+	bm_persist_time = 12000
+	#If true, prevent bullet merchant from self defending.
+	#Requires world restart to apply to existing bullet merchant entities.
+	#
+	#Added in version 1.1.2
+	bm_disable_self_defense = false
+	#If true, prevent bullet merchant from actively searching and eliminating targets.
+	#Requires world restart to apply to existing bullet merchant entities.
+	#
+	#Added in version 1.1.2
+	bm_disable_pre_emptive_attack = false
+

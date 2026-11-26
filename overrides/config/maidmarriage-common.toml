@@ -1,0 +1,63 @@
+
+#General settings for Maid Marriage.
+[general]
+	#Allow a player to marry multiple maids.
+	haremMode = false
+	#Favorability threshold to marry.
+	#Range: 0 ~ 384
+	requiredFavorability = 192
+	#Conception chance after each romance scene. Range: 0.0~1.0
+	#Range: 0.0 ~ 1.0
+	pregnancyChance = 0.6
+	#Days required from conception to childbirth.
+	#Range: 1 ~ 120
+	pregnancyBirthDays = 5
+	#Days required for child maid to grow into an adult maid.
+	#Range: 3 ~ 120
+	childGrowthDays = 10
+	#Days without romance before entering longing mood.
+	#Range: 1 ~ 30
+	longingDays = 3
+	#Enable clingy maid behavior and longing mood display.
+	clingyMaidEnabled = true
+	#Server authority: enable postpartum recovery effects. Clients cannot disable this in the in-game config screen.
+	postpartumRecoveryEnabled = true
+	#How maids address the player in dialogue. Empty means use player username.
+	maidAddressing = ""
+	#How child maids address the player in dialogue.
+	childMaidAddressing = "爸爸"
+	#External dialogue script path. Relative paths are resolved under the config folder.
+	dialogueScriptPath = "maidmarriage/custom-dialogues.json"
+
+#Rhythm game settings.
+[rhythm_game]
+	#Rhythm game hit key.
+	#Allowed Values: J, K, L, SEMICOLON, SPACE
+	rhythmHitKey = "J"
+	#Always skip rhythm game and settle with skip chance.
+	rhythmAlwaysSkip = false
+
+#Action key and interaction settings.
+[action_keys]
+	#Head-pat / lift interaction key.
+	#Allowed Values: O, P, I, U, J, K, L, SEMICOLON, SPACE
+	petHeadKey = "O"
+	#Unified interaction key.
+	#Allowed Values: O, P, I, U, J, K, L, SEMICOLON, SPACE
+	interactionKey = "J"
+	#Extra height offset for lift little maid pose.
+	#Range: -0.2 ~ 1.5
+	liftHeight = 0.1
+	#Lock distance used by standing hug pose.
+	#Range: 0.1 ~ 2.0
+	hugDistance = 0.8
+
+#Debug settings.
+[debug]
+	#Enable developer-only hotkeys and debug data tools.
+	enableDebugTools = false
+	#Show pregnancy countdown in top-left corner with seconds.
+	showPregnancyDebugCountdown = false
+	#Show dialogue UI action execution tips in the top-left corner.
+	showUiActionDebug = false
+

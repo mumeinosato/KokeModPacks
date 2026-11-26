@@ -1,0 +1,40 @@
+
+[trialMonolith]
+	#Health of The Trial Monolith
+	#Range: 0.0 ~ Infinity
+	trialMonolithHealth = 2.147483647E9
+	#Damage Cap of The Trial Monolith
+	#Range: 0.0 ~ Infinity
+	trialMonolithDamageCap = 1000000.0
+	#Attack Range of The Trial Monolith
+	#Range: 0.0 ~ Infinity
+	trialMonolithAttackRange = 128.0
+	#Whether The Trial Monolith should die from /kill
+	trialMonolithShouldDieFromKill = false
+	#Whether The Trial Monolith ignore NoAI frag
+	trialMonolithBypassNoAI = true
+
+[invaderMonolith]
+	#Attack Range of The Invader Monolith
+	#Range: 0.0 ~ Infinity
+	invaderMonolithAttackRange = 128.0
+	#Whether The Invader Monolith should die from /kill
+	invaderMonolithShouldDieFromKill = false
+	#Whether The Invader Monolith attacks players in creative mode
+	invaderMonolithAttackCreative = true
+	#Whether The Invader Monolith ignore NoAI frag
+	invaderMonolithBypassNoAI = true
+	#Whether The Invader Monolith has High Dimentional Barrier
+	invaderMonolithHasDimensionalBarrier = true
+
+[attacks]
+	#SoulDamage of Small Beams
+	#Range: 0.0 ~ Infinity
+	smallBeamSoulDamage = 0.01
+	#SoulDamage of Huge Beams
+	#Range: 0.0 ~ Infinity
+	hugeBeamSoulDamage = 0.1
+	#SoulDamage of Damage Cube
+	#Range: 0.0 ~ Infinity
+	damageCubeSoulDamage = 0.03
+
